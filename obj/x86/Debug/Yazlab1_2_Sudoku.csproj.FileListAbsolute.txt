@@ -1,0 +1,32 @@
+C:\Users\BegovicTeam\AppData\Local\Temporary Projects\Yazlab1_2_Sudoku\bin\Debug\Yazlab1_2_Sudoku.exe
+C:\Users\BegovicTeam\AppData\Local\Temporary Projects\Yazlab1_2_Sudoku\bin\Debug\Yazlab1_2_Sudoku.pdb
+C:\Users\BegovicTeam\AppData\Local\Temporary Projects\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.Form1.resources
+C:\Users\BegovicTeam\AppData\Local\Temporary Projects\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.Properties.Resources.resources
+C:\Users\BegovicTeam\AppData\Local\Temporary Projects\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.csproj.GenerateResource.Cache
+C:\Users\BegovicTeam\AppData\Local\Temporary Projects\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.exe
+C:\Users\BegovicTeam\AppData\Local\Temporary Projects\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.pdb
+C:\Users\BegovicTeam\documents\visual studio 2010\Projects\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.exe
+C:\Users\BegovicTeam\documents\visual studio 2010\Projects\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.pdb
+C:\Users\BegovicTeam\documents\visual studio 2010\Projects\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\bin\Debug\Yazlab1_2_Sudoku.exe
+C:\Users\BegovicTeam\documents\visual studio 2010\Projects\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\bin\Debug\Yazlab1_2_Sudoku.pdb
+C:\Users\BegovicTeam\documents\visual studio 2010\Projects\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.Form1.resources
+C:\Users\BegovicTeam\documents\visual studio 2010\Projects\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.Properties.Resources.resources
+C:\Users\BegovicTeam\documents\visual studio 2010\Projects\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.csproj.GenerateResource.Cache
+C:\Users\BegovicTeam\documents\visual studio 2010\Projects\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\BegovicTeam\documents\visual studio 2010\Projects\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.Thread1.resources
+C:\Users\BegovicTeam\documents\visual studio 2010\Projects\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.Thread2.resources
+C:\Users\BegovicTeam\documents\visual studio 2010\Projects\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.Thread3.resources
+C:\Users\BegovicTeam\documents\visual studio 2010\Projects\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.ZamanaBagli.resources
+C:\Users\Chicharito\Desktop\Onur Karakaya Can Özer\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\bin\Debug\Yazlab1_2_Sudoku.exe
+C:\Users\Chicharito\Desktop\Onur Karakaya Can Özer\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\bin\Debug\Yazlab1_2_Sudoku.pdb
+C:\Users\Chicharito\Desktop\Onur Karakaya Can Özer\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Chicharito\Desktop\Onur Karakaya Can Özer\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.Form1.resources
+C:\Users\Chicharito\Desktop\Onur Karakaya Can Özer\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.Properties.Resources.resources
+C:\Users\Chicharito\Desktop\Onur Karakaya Can Özer\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.Thread1.resources
+C:\Users\Chicharito\Desktop\Onur Karakaya Can Özer\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.Thread2.resources
+C:\Users\Chicharito\Desktop\Onur Karakaya Can Özer\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.Thread3.resources
+C:\Users\Chicharito\Desktop\Onur Karakaya Can Özer\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.ZamanaBagli.resources
+C:\Users\Chicharito\Desktop\Onur Karakaya Can Özer\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.csproj.GenerateResource.Cache
+C:\Users\Chicharito\Desktop\Onur Karakaya Can Özer\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Chicharito\Desktop\Onur Karakaya Can Özer\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.exe
+C:\Users\Chicharito\Desktop\Onur Karakaya Can Özer\Yazlab1_2_Sudoku\Yazlab1_2_Sudoku\obj\x86\Debug\Yazlab1_2_Sudoku.pdb
